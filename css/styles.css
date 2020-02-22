@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+.imgg{
+	position:relative;
+	left:25%;
+}
+.db{
+	background-color:#180D5B;
+	
+}
+h1{
+	color:#59F8EF;
+	font-weight:900;
+}
+h2,h3,p{
+	color:#59F8EF;
+	word-spacing: 1em;
+}
+.btnn{
+	background-color:#59F8EF;
+}
+ a{
+	color: #180D5B;
+}
+body{
+	background-color:#180D5B;
+}
+.get{
+	padding-left: 5%;
+	padding-right: 5%;
+}
+footer{
+	position: relative;
+	padding:5%;
+	background-color: #3BB3C1;
+	color: #180D5B;
+}
+.un{
+	color: #180D5B;
+}
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-width: 5px;
+  border-color:#59F8EF;
+  width: 8%;
+	align-self: center;
+}
