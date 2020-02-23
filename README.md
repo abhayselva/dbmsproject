@@ -1,2 +1,0 @@
-# dbmsproject
-My dbms project
