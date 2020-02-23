@@ -31,10 +31,19 @@ body{
 	padding-right: 5%;
 }
 footer{
-	position: relative;
+	
+	
 	padding:5%;
 	background-color: #3BB3C1;
 	color: #180D5B;
+}
+.ssp{
+	position:static;
+	
+}
+div{
+	height: auto;
+	
 }
 .un{
 	color: #180D5B;
